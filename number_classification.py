@@ -1,7 +1,6 @@
 """
 Day 1 - Number Classification Program
 Checks whether a number is positive, negative, or zero using if-else conditions.
-Tested with multiple sample inputs.
 """
 
 
