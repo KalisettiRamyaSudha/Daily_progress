@@ -1,7 +1,7 @@
 """
 Day 1 - Even/Odd Checker
 Takes five numbers as input and uses a loop to determine whether each
-number is even or odd. The even/odd logic lives in its own function.
+number is even or odd. 
 """
 
 
