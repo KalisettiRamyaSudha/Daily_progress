@@ -9,7 +9,7 @@ import pandas as pd
 
 def main():
     data = {
-        "name": ["Asha", "Ravi", "Priya", "Kiran", "Meera"],
+        "name": ["John", "Dave", "Miya", "Kiran", "Meera"],
         "age": [28, 34, 25, 41, 30],
         "department": ["Engineering", "Sales", "Engineering", "HR", "Engineering"],
         "salary": [72000, 61000, 68000, 55000, 74000],
