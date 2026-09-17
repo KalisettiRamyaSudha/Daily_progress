@@ -12,7 +12,7 @@ FILENAME = "employees.csv"
 
 def create_sample_csv(filename):
     data = {
-        "name": ["Asha", "Ravi", "Priya", "Kiran", "Meera", "Dev", "Nina"],
+        "name": ["John", "Dave", "Miya", "Kiran", "Meera", "Dev", "Nina"],
         "age": [28, 34, 25, 41, 30, 45, 22],
         "department": ["Engineering", "Sales", "Engineering", "HR",
                         "Engineering", "Sales", "HR"],
