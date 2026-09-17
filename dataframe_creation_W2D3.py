@@ -10,7 +10,7 @@ import pandas as pd
 def main():
     # --- DataFrame from a dictionary of lists ---
     data_dict = {
-        "name": ["Asha", "Ravi", "Priya", "Kiran"],
+        "name": ["John", "Dave", "Miya", "Kiran"],
         "age": [28, 34, 25, 41],
         "department": ["Engineering", "Sales", "Engineering", "HR"],
     }
