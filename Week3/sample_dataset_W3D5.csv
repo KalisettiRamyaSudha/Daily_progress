@@ -1,0 +1,257 @@
+employee_name,department,years_experience,salary,satisfaction_score,hire_date
+Employee_054,Sales,5.0,"73,592",6.7,2021-12-26
+Employee_206, Engineering,5.4,"92,710",7.4,2019-09-06
+Employee_036,Engineering,8.7,"103,736",5.9,2019-02-11
+Employee_011,ENGINEERING,10.7,"104,421",7.4,2023-08-08
+Employee_189,Marketing,8.3,"75,135",8.7,2016-03-21
+Employee_031,marketing,6.2,"74,656",10.0,2022-07-01
+Employee_161,Engineering,2.9,"97,016",7.0,2023-08-07
+Employee_127,engineering,7.5,"102,535",5.9,2021-06-16
+Employee_241,marketing,4.0,"64,751",7.1,2018-08-02
+Employee_014,marketing,7.9,"76,576",3.2,2020-07-12
+Employee_004,Sales ,5.6,"71,047",6.8,2022-06-18
+Employee_112,engineering,5.0,"82,596",4.9,2016-08-16
+Employee_185,Marketing,5.4,"69,107",7.7,2016-02-25
+Employee_042,Marketing,8.9,"84,359",9.2,2024-08-11
+Employee_248,Sales,0.1,"55,495",5.9,2018-10-15
+Employee_086,ENGINEERING,9.7,"208,418",9.4,2018-09-16
+Employee_067,Sales,12.0,"88,701",8.3,2024-09-30
+Employee_157,ENGINEERING,3.6,"88,699",7.3,2016-10-04
+Employee_065,Sales ,4.7,"75,207",8.3,2023-09-30
+Employee_142,Sales ,3.5,"66,225",7.1,2019-09-27
+Employee_075,Engineering,3.9,"89,624",1.5,2021-07-22
+Employee_230, Engineering,1.7,"97,585",5.4,2021-07-17
+Employee_235,HR,4.5,"67,927",8.3,2016-01-12
+Employee_095,engineering,6.6,"92,000",7.1,2019-11-10
+Employee_166, Engineering,11.1,"99,513",5.6,2017-06-10
+Employee_132,HR,5.0,"61,897",8.0,2015-12-13
+Employee_055,marketing,6.7,"63,532",7.1,2024-11-23
+Employee_134,engineering,4.9,"94,315",8.1,2023-04-18
+Employee_129, Engineering,8.3,"88,704",8.0,2016-09-19
+Employee_159,Marketing,11.7,"89,469",7.7,2016-05-06
+Employee_025,Marketing,3.2,"154,059",4.7,2017-07-28
+Employee_131, Engineering,7.3,"104,079",7.5,2023-11-24
+Employee_066,Sales,8.8,"92,753",7.3,2024-07-10
+Employee_218,engineering,5.1,"100,251",8.2,2020-04-21
+Employee_123,Engineering,8.0,"98,462",7.2,2017-02-13
+Employee_021,Marketing,10.6,"91,827",8.6,2018-12-10
+Employee_029,ENGINEERING,1.1,"89,603",9.4,2020-01-15
+Employee_180,marketing,0.1,"56,450",4.9,2021-12-27
+Employee_092,Sales ,12.8,"82,886",6.6,2024-04-20
+Employee_140,ENGINEERING,10.8,"104,497",5.4,2018-05-26
+Employee_128,engineering,3.0,"82,301",6.4,2022-10-11
+Employee_231, Engineering,6.9,"97,598",8.1,2018-03-17
+Employee_225,ENGINEERING,13.0,"103,928",8.9,2018-12-21
+Employee_224,HR,8.5,"69,536",8.5,2023-01-18
+Employee_024,marketing,0.4,"59,168",7.7,2020-11-14
+Employee_170,HR,4.7,"66,204",5.9,2018-06-03
+Employee_167,marketing,6.5,"73,685",8.5,2015-07-21
+Employee_015,Sales ,14.1,"87,713",4.4,2020-05-21
+Employee_030,Sales ,0.0,"57,528",6.1,2020-05-20
+Employee_192,ENGINEERING,7.0,"99,323",5.4,2024-08-14
+Employee_019,Marketing,4.4,"55,856",7.1,2015-12-05
+Employee_200,Engineering,5.8,"94,430",5.6,2019-06-04
+Employee_216,marketing,10.7,"79,415",6.1,2018-04-05
+Employee_100,hr,7.1,"70,712",5.5,2017-08-01
+Employee_026,engineering,7.5,"97,550",7.6,2018-04-09
+Employee_085,engineering,0.8,"82,528",7.6,2023-04-13
+Employee_094,ENGINEERING,6.2,"101,406",8.4,2018-09-19
+Employee_078,sales,3.7,"69,366",7.7,2017-07-08
+Employee_153,Engineering,5.7,"98,445",7.1,2017-01-25
+Employee_184,ENGINEERING,5.1,"85,246",7.2,2015-07-05
+Employee_246,Marketing,8.7,"77,343",7.7,2023-01-01
+Employee_226,HR,1.9,"59,789",8.7,2022-12-11
+Employee_172,sales,4.4,"81,908",6.2,2024-04-15
+Employee_072,sales,5.5,"81,159",7.5,2021-03-02
+Employee_045,marketing,5.1,"70,777",4.2,2015-11-10
+Employee_007,marketing,3.1,"66,788",8.4,2016-09-05
+Employee_013,Sales ,8.9,"77,922",6.4,2023-03-24
+Employee_173, Engineering,7.6,"103,151",7.8,2021-02-06
+Employee_006,hr,3.4,"67,689",7.3,2018-06-03
+Employee_090,Sales ,5.5,"80,465",6.9,2020-04-20
+Employee_003,marketing,2.3,"66,372",6.7,2021-07-08
+Employee_221,Engineering,2.0,"96,407",8.8,2024-09-13
+Employee_148,sales,4.0,"75,398",7.6,2015-04-09
+Employee_115, Engineering,4.8,"100,946",6.3,2020-08-20
+Employee_119,Sales,15.1,"86,582",9.0,2015-08-30
+Employee_113,ENGINEERING,6.6,"89,397",,2018-02-22
+Employee_202,hr,6.2,"70,424",9.0,2017-02-05
+Employee_110,Hr,7.2,"70,479",7.6,2016-04-27
+Employee_135,Sales,9.3,"86,394",7.6,2019-10-04
+Employee_229,sales,11.6,"84,200",7.8,2016-04-12
+Employee_152,marketing,6.3,"75,040",3.7,2019-02-22
+Employee_091,ENGINEERING,7.2,"96,735",5.0,2015-06-30
+Employee_121,sales,11.0,"85,091",7.5,2015-01-04
+Employee_010,Sales,6.0,"73,597",5.4,2015-08-26
+Employee_114,sales,8.2,"75,146",6.5,2019-07-03
+Employee_231, Engineering,6.9,"97,598",8.1,2018-03-17
+Employee_046,Marketing,5.6,"65,735",6.5,2018-05-15
+Employee_213, Engineering,2.9,"79,637",4.7,2016-09-13
+Employee_176, Engineering,4.1,"92,601",5.1,2023-01-03
+Employee_250,Sales,2.4,"64,410",6.7,2023-01-06
+Employee_154,Sales ,8.8,"82,544",7.0,2016-01-17
+Employee_049,sales,1.5,"128,791",6.1,2016-10-02
+Employee_043,Marketing,4.6,"62,761",7.8,2016-03-10
+Employee_102,Sales ,0.4,"60,545",8.7,2016-01-14
+Employee_181,marketing,3.1,"59,328",9.2,2015-12-31
+Employee_242,marketing,10.5,"83,443",8.7,2021-08-30
+Employee_058,Sales ,5.8,"72,826",8.7,2024-11-14
+Employee_234,Sales ,1.5,"68,355",9.0,2024-10-23
+Employee_155, Engineering,7.2,"89,042",8.6,2019-03-23
+Employee_080,Marketing,5.3,"71,110",5.9,2015-01-24
+Employee_116,marketing,9.7,"78,873",8.3,2021-05-22
+Employee_210,sales,0.9,"64,214",7.2,2024-02-25
+Employee_247,sales,7.6,"80,805",7.0,2021-04-29
+Employee_250,Sales,2.4,"64,410",6.7,2023-01-06
+Employee_156,sales,8.3,"80,358",8.8,2020-03-18
+Employee_220, Engineering,0.0,"162,546",6.0,2017-11-23
+Employee_160,Marketing,2.6,"73,325",6.2,2021-07-06
+Employee_002,sales,9.5,"74,981",7.0,2018-05-19
+Employee_012,Hr,9.0,"75,545",8.9,2017-09-06
+Employee_162,Hr,10.7,"78,536",8.5,2016-10-20
+Employee_177,sales,10.0,"81,985",6.7,2023-11-17
+Employee_228,Sales,6.8,"86,427",7.9,2019-09-13
+Employee_009,engineering,9.0,"108,456",5.2,2016-06-20
+Employee_233,Hr,0.2,"57,894",5.8,2016-12-06
+Employee_227, Engineering,3.1,"97,717",,2020-11-04
+Employee_145,Sales ,4.1,"166,165",7.9,2016-12-14
+Employee_190,ENGINEERING,7.3,"93,915",6.0,2016-12-27
+Employee_143,Hr,0.7,"69,504",6.6,2020-11-08
+Employee_183,Sales ,5.4,"76,676",7.6,2016-01-28
+Employee_107,Sales,12.8,"91,469",4.7,2018-11-07
+Employee_222,Sales ,5.0,"68,361",9.4,2024-07-23
+Employee_099, Engineering,5.9,"98,857",7.9,2019-03-09
+Employee_223,Sales ,2.2,"67,061",7.7,2018-10-21
+Employee_158,sales,9.1,"74,981",6.2,2015-10-11
+Employee_022,Engineering,0.4,"83,694",6.0,2020-06-14
+Employee_162,Hr,10.7,"78,536",8.5,2016-10-20
+Employee_120,Sales,6.8,"79,479",6.8,2018-08-15
+Employee_187,engineering,2.5,"183,686",9.2,2021-03-11
+Employee_215,marketing,0.9,"61,766",6.6,2024-10-12
+Employee_141,Sales ,9.1,"79,884",5.5,2017-02-24
+Employee_079,Sales ,7.5,"76,376",5.3,2022-05-05
+Employee_194,marketing,5.7,"76,697",9.2,2016-01-13
+Employee_217, Engineering,10.4,"103,132",7.0,2019-12-26
+Employee_109,ENGINEERING,2.6,"84,569",8.1,2017-09-15
+Employee_182,Marketing,6.9,"74,976",7.2,2022-07-12
+Employee_204,Engineering,9.2,"98,420",6.1,2015-08-16
+Employee_174,HR,0.5,"58,957",5.6,2019-03-09
+Employee_083,Marketing,10.6,"67,821",10.0,2020-07-03
+Employee_136, Engineering,0.0,"93,988",5.1,2023-05-26
+Employee_207,Engineering,3.7,"92,881",6.8,2024-06-24
+Employee_191,Hr,7.9,"66,802",,2023-07-09
+Employee_243, Engineering,3.8,"91,995",,2019-01-31
+Employee_165,sales,4.5,"74,114",8.0,2018-08-09
+Employee_037,engineering,6.8,"88,587",7.6,2017-03-11
+Employee_093,Sales,13.3,"88,655",5.9,2021-01-04
+Employee_063,sales,0.8,"59,856",6.9,2018-12-05
+Employee_001,Marketing,7.3,"74,316",4.1,2020-03-20
+Employee_028,Engineering,7.0,"100,498",6.8,2017-01-05
+Employee_101,hr,3.1,"67,088",5.4,2022-07-29
+Employee_237,Sales ,8.8,"85,096",6.6,2023-08-28
+Employee_208,sales,7.9,"80,586",7.6,2015-11-12
+Employee_203,Sales,3.3,"68,420",10.0,2019-01-04
+Employee_193,ENGINEERING,13.1,"110,476",7.7,2022-07-16
+Employee_144,sales,0.0,"73,926",6.5,2019-08-21
+Employee_018,Engineering,11.6,"100,677",6.4,2015-06-08
+Employee_060,ENGINEERING,6.3,"100,264",7.5,2016-10-17
+Employee_245,Sales ,7.9,"79,290",5.5,2019-04-25
+Employee_164,Engineering,10.9,"104,680",8.2,2018-06-08
+Employee_150,ENGINEERING,0.5,"92,148",3.8,2023-12-02
+Employee_124,sales,5.8,"76,831",7.2,2020-12-23
+Employee_056,marketing,9.8,"69,562",7.0,2023-07-14
+Employee_017,Sales ,0.0,"71,813",6.2,2023-03-10
+Employee_209,engineering,6.7,"91,363",7.1,2020-10-06
+Employee_188, Engineering,8.5,"105,429",6.3,2019-01-26
+Employee_232,sales,12.4,"96,088",5.0,2017-03-02
+Employee_088,Sales,9.9,"78,244",5.5,2019-08-22
+Employee_147,engineering,7.5,"102,775",7.5,2021-10-16
+Employee_098,ENGINEERING,7.2,"96,852",7.3,2017-11-18
+Employee_126,Sales,3.3,"74,829",6.9,2022-09-24
+Employee_062,Sales,3.9,"68,451",5.3,2024-03-04
+Employee_082,Sales ,7.3,"82,900",,2022-06-15
+Employee_225,ENGINEERING,13.0,"103,928",8.9,2018-12-21
+Employee_069, Engineering,7.4,"97,485",8.8,2023-09-21
+Employee_130,sales,9.8,"87,649",7.0,2023-05-24
+Employee_057,Sales ,10.6,"86,490",7.7,2016-05-15
+Employee_020,sales,6.4,"84,575",6.5,2019-03-26
+Employee_087,marketing,4.8,"63,822",7.2,2022-02-06
+Employee_071,ENGINEERING,7.7,"101,985",6.5,2016-12-02
+Employee_138,Sales,0.0,"63,141",6.2,2019-09-29
+Employee_061,sales,3.1,"71,942",7.9,2019-06-26
+Employee_035,sales,6.5,"75,990",5.4,2018-09-04
+Employee_041,Sales ,6.7,"76,189",8.7,2022-07-05
+Employee_139,marketing,0.8,"56,974",4.5,2015-08-06
+Employee_077,ENGINEERING,2.3,"96,632",7.7,2017-11-21
+Employee_198,marketing,1.6,"61,284",6.7,2016-06-06
+Employee_027,Sales ,7.8,"73,473",7.2,2022-07-09
+Employee_033,Engineering,7.6,"99,540",5.1,2019-08-24
+Employee_068,Engineering,1.2,"89,099",,2024-07-20
+Employee_097, Engineering,3.0,"93,193",6.8,2017-08-07
+Employee_084,Engineering,4.8,"89,506",7.0,2018-11-02
+Employee_111,Sales ,4.6,"78,920",7.9,2020-03-20
+Employee_106,marketing,5.0,"61,183",7.7,2016-07-29
+Employee_186,Sales ,6.7,"82,039",6.8,2019-08-06
+Employee_074,Engineering,9.2,"99,383",7.6,2019-09-24
+Employee_118,Marketing,6.0,"65,099",9.7,2023-06-09
+Employee_151,Marketing,5.0,"72,177",6.5,2015-12-28
+Employee_146,engineering,14.5,"106,496",7.5,2018-01-04
+Employee_201,marketing,7.2,"70,071",7.3,2015-06-11
+Employee_092,Sales ,12.8,"82,886",6.6,2024-04-20
+Employee_179,marketing,3.2,"65,005",,2024-04-16
+Employee_137,HR,4.8,"69,221",9.2,2024-05-07
+Employee_175, Engineering,8.2,"101,004",7.7,2017-01-19
+Employee_040,Sales,5.4,"83,959",8.5,2021-06-25
+Employee_050, Engineering,0.8,"77,980",6.8,2015-06-10
+Employee_240,ENGINEERING,7.8,"97,231",7.2,2020-10-08
+Employee_133,sales,7.6,"69,381",6.4,2019-09-12
+Employee_051,ENGINEERING,0.0,"84,912",9.8,2023-03-24
+Employee_205,Engineering,8.6,"102,037",9.2,2018-03-28
+Employee_053,marketing,8.6,"73,768",7.6,2018-12-25
+Employee_081,Sales,7.2,"76,731",9.1,2020-08-29
+Employee_195,Engineering,4.9,"99,320",6.9,2023-03-12
+Employee_239, Engineering,0.0,"89,845",6.6,2020-11-21
+Employee_122,sales,6.3,"79,084",8.2,2015-02-04
+Employee_212,sales,6.9,"71,610",4.9,2024-03-30
+Employee_244,Sales,3.8,"73,233",7.5,2019-05-24
+Employee_199,Engineering,2.9,"91,306",4.6,2024-12-16
+Employee_047,engineering,8.9,"101,907",5.7,2016-10-05
+Employee_197,Sales ,2.4,"63,099",5.3,2020-04-04
+Employee_089,ENGINEERING,7.3,"97,134",6.8,2015-04-08
+Employee_070,sales,2.4,"73,404",7.4,2019-07-17
+Employee_068,Engineering,1.2,"89,099",,2024-07-20
+Employee_236,marketing,4.2,"83,454",9.2,2022-12-24
+Employee_059,ENGINEERING,10.7,"91,436",9.5,2021-07-13
+Employee_034,engineering,8.5,"98,613",7.1,2018-02-02
+Employee_039, Engineering,3.5,"89,348",6.1,2017-01-30
+Employee_104,HR,2.1,"60,727",4.9,2018-06-26
+Employee_052,engineering,3.6,"86,968",6.7,2015-08-12
+Employee_108, Engineering,9.9,"101,065",7.3,2022-07-17
+Employee_171,ENGINEERING,2.7,"89,461",5.7,2017-08-24
+Employee_005,engineering,11.2,"98,747",7.0,2023-03-24
+Employee_103, Engineering,0.0,"84,940",6.4,2023-04-06
+Employee_196,engineering,3.4,"90,459",6.7,2021-11-30
+Employee_168,marketing,6.9,"72,722",8.0,2020-03-31
+Employee_038,Sales,7.9,"80,042",7.8,2021-04-01
+Employee_117,Marketing,2.0,"166,588",9.2,2021-10-05
+Employee_125, Engineering,5.4,"95,511",8.2,2023-12-09
+Employee_149,Sales ,7.6,"80,893",7.9,2017-02-20
+Employee_219,HR,7.3,"57,776",7.3,2019-12-07
+Employee_032,HR,4.3,"76,003",6.7,2022-02-20
+Employee_064,Marketing,2.9,"69,399",8.4,2016-11-01
+Employee_048, Engineering,0.0,"91,063",7.2,2016-08-15
+Employee_214,marketing,6.7,"62,751",8.0,2023-01-03
+Employee_249,engineering,7.9,"102,553",6.6,2024-04-05
+Employee_096,Sales ,9.8,"78,087",,2021-03-10
+Employee_178,HR,0.0,"52,588",7.2,2015-04-28
+Employee_163,Engineering,5.3,"101,293",6.2,2018-03-15
+Employee_008,Marketing,6.7,"68,990",5.3,2015-04-07
+Employee_105,marketing,4.4,"61,841",7.7,2020-08-10
+Employee_076,engineering,4.1,"96,334",4.4,2024-06-17
+Employee_211,Sales ,5.8,"82,629",6.4,2023-01-21
+Employee_044,Engineering,7.8,"101,976",9.0,2022-08-05
+Employee_023,HR,1.6,"51,196",5.7,2022-05-16
+Employee_073,Marketing,0.0,"57,393",2.6,2017-03-16
+Employee_238,Marketing,6.8,"68,704",5.3,2015-04-24
+Employee_016,Engineering,5.3,"92,482",5.8,2019-07-18
+Employee_169,ENGINEERING,11.5,"99,187",7.2,2018-07-28
