@@ -1,0 +1,5 @@
+model,test_accuracy,cv_mean_accuracy
+Random Forest (tuned),0.9561,0.9604
+Random Forest (default),0.9561,0.9561
+Logistic Regression,0.9825,0.9508
+Decision Tree,0.9123,0.9173
