@@ -1,0 +1,401 @@
+age,income,tenure_years,monthly_charges,contract_type,payment_method,churn
+71,40143.0,6.3,62.26,Month-to-month,Electronic check,0
+53,86453.0,2.9,79.05,Month-to-month,Mailed check,1
+56,66699.0,7.8,44.94,Month-to-month,Credit card,0
+69,,0.9,29.01,One year,Electronic check,0
+50,55073.0,6.2,84.52,Month-to-month,Mailed check,0
+62,67844.0,5.2,68.62,Month-to-month,Mailed check,0
+65,63629.0,6.2,77.71,Month-to-month,Credit card,0
+30,87925.0,8.7,27.56,Two year,Mailed check,0
+21,79702.0,7.7,60.87,Month-to-month,Credit card,1
+35,45292.0,1.1,55.0,One year,Mailed check,0
+34,53395.0,0.0,48.39,Month-to-month,Mailed check,1
+67,31932.0,6.0,20.0,Two year,Credit card,0
+70,59490.0,1.5,61.63,Month-to-month,Mailed check,1
+18,57718.0,4.0,92.43,Month-to-month,Bank transfer,1
+46,103663.0,6.1,79.52,Two year,Mailed check,1
+64,56756.0,0.0,54.98,One year,Bank transfer,0
+25,18000.0,0.0,69.63,Month-to-month,Bank transfer,0
+63,42902.0,4.6,88.92,Month-to-month,Credit card,0
+24,,4.1,20.0,Two year,Mailed check,0
+44,32392.0,3.4,66.89,Month-to-month,Electronic check,0
+64,39390.0,4.1,83.58,Month-to-month,Electronic check,0
+35,48419.0,1.8,87.05,Two year,Bank transfer,1
+37,61153.0,0.2,112.52,Month-to-month,Bank transfer,1
+33,52024.0,3.6,98.38,Month-to-month,Electronic check,1
+59,38994.0,1.6,77.81,Month-to-month,Electronic check,1
+32,69178.0,0.0,77.55,Month-to-month,Mailed check,1
+74,45287.0,5.3,89.67,Month-to-month,Electronic check,0
+43,46012.0,3.8,56.52,One year,Credit card,0
+45,30166.0,5.0,69.0,Month-to-month,Credit card,0
+46,40852.0,1.5,92.66,Month-to-month,Electronic check,1
+51,66732.0,2.4,118.94,Two year,Credit card,0
+49,25882.0,1.5,66.02,Two year,Credit card,0
+47,53719.0,1.8,68.79,One year,Bank transfer,0
+74,67919.0,4.5,74.96,Month-to-month,Credit card,0
+64,48212.0,2.0,103.58,Month-to-month,Bank transfer,0
+63,59316.0,4.9,69.24,One year,Bank transfer,0
+57,34898.0,4.8,106.73,Month-to-month,Bank transfer,0
+53,78585.0,9.1,45.83,Two year,Credit card,0
+37,,0.5,65.35,Month-to-month,Bank transfer,1
+74,59239.0,6.2,65.05,Month-to-month,Mailed check,0
+44,23409.0,3.8,89.66,Month-to-month,Bank transfer,1
+30,,,96.13,One year,Mailed check,0
+66,72581.0,0.4,32.26,One year,Mailed check,0
+27,85836.0,2.8,47.12,One year,Bank transfer,0
+66,60339.0,5.9,78.42,Month-to-month,Bank transfer,1
+52,77452.0,3.8,53.53,Two year,Electronic check,0
+24,44060.0,4.2,31.94,One year,Mailed check,0
+20,51591.0,3.3,95.96,Month-to-month,Mailed check,1
+43,55021.0,6.9,82.35,Month-to-month,Electronic check,0
+20,62616.0,3.9,82.33,One year,Mailed check,0
+26,27481.0,0.0,58.11,Month-to-month,Mailed check,1
+47,71932.0,2.3,95.72,One year,Credit card,0
+73,78806.0,0.0,64.0,One year,Mailed check,0
+44,34323.0,0.0,97.41,Month-to-month,Mailed check,1
+64,,2.7,47.21,Two year,Mailed check,0
+70,61310.0,7.3,48.65,Month-to-month,Electronic check,1
+64,43222.0,4.1,75.12,Month-to-month,Credit card,0
+53,18000.0,1.1,52.44,Month-to-month,Credit card,0
+43,69555.0,1.6,86.89,Two year,Mailed check,0
+47,57801.0,6.8,76.5,Month-to-month,Electronic check,0
+33,46420.0,4.4,46.93,One year,Electronic check,0
+46,93042.0,4.1,71.82,Month-to-month,Credit card,1
+39,57500.0,3.9,61.22,Two year,Credit card,0
+32,41438.0,4.1,92.9,Two year,Credit card,0
+74,56821.0,6.0,54.19,Month-to-month,Bank transfer,0
+18,,5.4,59.02,Two year,Bank transfer,0
+23,41289.0,4.5,100.28,One year,Credit card,1
+28,61955.0,1.4,125.96,Month-to-month,Mailed check,1
+73,,5.3,119.98,Month-to-month,,1
+57,46882.0,2.3,71.58,Month-to-month,Electronic check,0
+68,85041.0,6.7,75.47,Month-to-month,Mailed check,0
+29,70474.0,0.8,108.34,Month-to-month,Electronic check,1
+59,69451.0,3.7,66.89,Month-to-month,Credit card,0
+39,64519.0,4.0,45.59,Month-to-month,Electronic check,1
+45,63716.0,0.7,72.92,One year,Bank transfer,0
+18,81219.0,8.3,81.29,Two year,Mailed check,0
+53,54648.0,7.7,49.27,Two year,Credit card,0
+65,88399.0,2.8,28.84,Month-to-month,Mailed check,1
+55,37875.0,5.9,34.08,One year,Electronic check,0
+26,50409.0,4.9,86.64,Month-to-month,Credit card,1
+48,30185.0,0.0,51.04,Month-to-month,Bank transfer,0
+33,48812.0,4.6,66.47,Two year,Bank transfer,0
+72,64332.0,3.8,75.31,Month-to-month,Bank transfer,0
+68,81122.0,,85.48,Two year,Credit card,0
+28,43060.0,1.3,61.63,One year,Electronic check,0
+47,55095.0,3.3,82.47,Month-to-month,Bank transfer,1
+71,48534.0,,47.75,One year,Mailed check,0
+66,41705.0,7.0,60.96,Month-to-month,Electronic check,1
+58,33591.0,,44.39,Two year,Credit card,0
+54,56092.0,4.0,98.29,Month-to-month,Bank transfer,0
+20,23823.0,7.8,69.32,Month-to-month,Credit card,1
+60,56990.0,2.6,51.52,One year,Electronic check,0
+44,55377.0,3.0,61.19,Month-to-month,Bank transfer,0
+23,43160.0,0.0,64.46,Month-to-month,Electronic check,1
+31,36804.0,7.9,87.51,Month-to-month,Credit card,0
+48,30082.0,6.4,30.11,Month-to-month,Credit card,0
+59,88684.0,6.3,44.07,Month-to-month,Credit card,0
+46,30845.0,5.7,60.55,One year,Mailed check,0
+52,83039.0,4.3,133.31,Two year,Bank transfer,0
+67,65803.0,4.5,93.89,Month-to-month,Electronic check,1
+57,48448.0,3.4,67.21,One year,Credit card,0
+38,34173.0,3.5,87.8,Two year,,0
+54,73765.0,4.1,121.44,Month-to-month,Bank transfer,1
+52,86134.0,7.8,64.16,One year,Bank transfer,0
+24,38188.0,5.4,60.84,Month-to-month,Mailed check,1
+21,49623.0,3.9,100.3,Two year,Mailed check,0
+55,73929.0,2.6,82.35,One year,Mailed check,1
+40,61044.0,2.4,86.78,Two year,Electronic check,0
+52,90999.0,8.0,57.29,One year,Electronic check,0
+36,44737.0,5.3,118.11,Two year,Bank transfer,0
+30,64761.0,4.2,112.74,Month-to-month,Bank transfer,1
+26,32483.0,3.1,84.15,One year,Mailed check,0
+39,92726.0,1.2,87.11,Month-to-month,Mailed check,1
+64,41854.0,3.8,20.0,Month-to-month,Credit card,0
+40,,6.2,85.94,Month-to-month,Bank transfer,0
+39,52736.0,3.0,65.15,One year,Mailed check,0
+50,52490.0,3.4,80.85,One year,Credit card,0
+73,89480.0,3.4,87.06,Two year,Bank transfer,0
+40,48901.0,4.3,61.47,Month-to-month,Electronic check,0
+51,54772.0,0.0,27.74,Month-to-month,Mailed check,1
+43,65682.0,3.4,79.2,Month-to-month,Electronic check,0
+52,83553.0,1.9,51.47,Two year,Bank transfer,0
+43,53862.0,6.2,61.75,Month-to-month,Electronic check,1
+54,73711.0,2.1,54.89,Month-to-month,Credit card,0
+49,64326.0,5.4,61.46,One year,Bank transfer,0
+56,49668.0,7.8,20.0,One year,,0
+72,56396.0,3.2,100.42,Month-to-month,Mailed check,0
+26,55516.0,2.5,76.33,Month-to-month,Electronic check,1
+50,38512.0,4.5,97.78,Month-to-month,Mailed check,0
+43,76846.0,4.0,119.5,Two year,Mailed check,1
+38,30059.0,1.5,70.56,One year,Mailed check,0
+31,76081.0,5.2,24.94,Month-to-month,Electronic check,1
+20,72180.0,9.0,47.65,Month-to-month,Electronic check,0
+40,53325.0,3.4,39.83,Month-to-month,Electronic check,0
+65,41222.0,3.5,57.45,One year,Mailed check,0
+23,50924.0,1.4,71.99,One year,Electronic check,0
+41,63510.0,4.8,20.0,Two year,Bank transfer,0
+73,68375.0,0.9,78.56,Month-to-month,Electronic check,1
+72,60165.0,1.2,32.24,Month-to-month,Mailed check,1
+30,72858.0,7.2,77.43,One year,Credit card,0
+18,44966.0,1.7,67.26,Two year,Bank transfer,0
+56,59222.0,6.7,62.16,One year,Bank transfer,0
+18,26770.0,7.8,68.17,Month-to-month,Bank transfer,1
+35,68745.0,4.6,56.51,Two year,Credit card,0
+46,57757.0,5.4,54.69,Month-to-month,Electronic check,1
+67,47520.0,8.9,27.93,Two year,Bank transfer,1
+23,75908.0,3.5,69.26,Month-to-month,Electronic check,0
+55,67447.0,2.5,116.14,Month-to-month,Mailed check,1
+48,18000.0,0.6,119.51,Two year,Credit card,0
+25,55718.0,4.1,103.05,Month-to-month,,0
+66,28810.0,7.7,87.65,Two year,Bank transfer,0
+66,74200.0,6.4,53.09,One year,Mailed check,0
+45,99803.0,,106.07,Month-to-month,Electronic check,0
+71,45666.0,1.9,68.6,Month-to-month,Mailed check,1
+52,56342.0,2.7,68.28,One year,Electronic check,0
+69,50481.0,4.7,62.72,Month-to-month,Mailed check,0
+72,61315.0,3.5,72.3,Two year,Electronic check,0
+50,66602.0,4.5,59.12,Two year,Credit card,0
+34,,4.7,67.91,Month-to-month,Bank transfer,0
+26,37226.0,3.3,42.89,Month-to-month,Electronic check,0
+50,83289.0,3.9,60.66,Two year,Credit card,0
+28,38233.0,4.5,127.01,Month-to-month,Mailed check,1
+60,,3.8,68.26,Month-to-month,Mailed check,0
+70,75854.0,5.3,64.03,Month-to-month,Mailed check,0
+31,67838.0,8.7,83.31,Month-to-month,Bank transfer,1
+49,38106.0,5.5,87.7,Month-to-month,Bank transfer,0
+20,42365.0,4.1,42.16,One year,Bank transfer,0
+28,46678.0,0.0,64.82,Two year,Bank transfer,0
+39,54079.0,5.0,92.96,Two year,Mailed check,0
+68,75645.0,0.0,76.75,Month-to-month,Bank transfer,1
+73,31747.0,0.5,73.05,Month-to-month,Credit card,1
+54,63401.0,6.1,108.85,Month-to-month,Electronic check,1
+51,65980.0,5.8,53.06,Two year,Electronic check,0
+50,65049.0,3.6,72.07,Month-to-month,Electronic check,1
+21,,0.0,57.0,Month-to-month,Mailed check,1
+39,82330.0,3.1,107.26,Two year,Mailed check,0
+74,63781.0,2.3,21.2,Month-to-month,Credit card,1
+41,70425.0,5.6,53.25,Month-to-month,Mailed check,0
+30,65144.0,9.6,56.77,One year,Credit card,0
+31,87276.0,4.5,86.59,Month-to-month,Credit card,1
+58,20804.0,2.1,85.16,Two year,Credit card,0
+20,78078.0,1.1,104.88,Month-to-month,Credit card,0
+73,50301.0,3.9,30.65,Month-to-month,Electronic check,1
+67,49947.0,,88.76,Month-to-month,Bank transfer,0
+50,37549.0,1.1,62.67,One year,Credit card,0
+44,21363.0,4.3,53.36,Month-to-month,Electronic check,0
+61,48126.0,1.1,83.49,Two year,Electronic check,0
+49,42629.0,6.8,47.0,Two year,Mailed check,0
+45,63895.0,6.7,20.0,Two year,Electronic check,0
+36,28499.0,6.7,60.74,Month-to-month,Credit card,0
+43,80769.0,2.8,32.56,Month-to-month,Electronic check,1
+60,59895.0,5.3,53.78,Month-to-month,Credit card,0
+21,50538.0,3.7,79.29,Two year,Mailed check,0
+19,42230.0,3.0,77.8,One year,Bank transfer,0
+59,40830.0,3.2,109.67,Month-to-month,Mailed check,1
+39,34658.0,0.8,65.01,One year,Mailed check,0
+63,45202.0,0.4,31.67,Two year,Credit card,0
+19,,6.0,51.1,Two year,Mailed check,0
+69,51807.0,3.5,47.02,One year,Credit card,0
+25,29539.0,4.5,39.55,Two year,Bank transfer,0
+41,50215.0,6.5,80.88,Two year,Mailed check,0
+73,38923.0,0.0,53.87,Month-to-month,Credit card,0
+24,57878.0,2.0,20.57,Month-to-month,Mailed check,0
+55,88564.0,4.4,87.42,One year,Mailed check,0
+59,66250.0,5.0,67.21,Month-to-month,Credit card,1
+42,49364.0,3.1,78.92,Month-to-month,Electronic check,0
+22,25752.0,6.6,72.64,Two year,Credit card,0
+47,29535.0,4.5,85.79,One year,Electronic check,0
+42,24639.0,1.0,70.95,Month-to-month,Electronic check,0
+67,68067.0,1.7,100.91,Two year,,0
+56,41229.0,6.0,80.62,Month-to-month,Bank transfer,0
+37,56127.0,5.2,79.8,Two year,Credit card,0
+21,43804.0,0.0,80.25,Two year,Credit card,0
+51,56642.0,7.4,33.58,Month-to-month,Bank transfer,0
+33,80230.0,5.5,65.88,Month-to-month,Bank transfer,1
+56,42671.0,7.4,63.52,Month-to-month,Credit card,0
+67,48863.0,3.0,75.19,Two year,Credit card,0
+38,40486.0,3.3,36.03,Month-to-month,Electronic check,0
+69,70742.0,1.2,110.85,Month-to-month,Bank transfer,1
+47,36537.0,10.3,72.61,Two year,Mailed check,0
+48,34606.0,3.6,39.72,One year,Electronic check,0
+61,30022.0,8.0,27.28,One year,Credit card,0
+62,29647.0,2.4,62.97,One year,Bank transfer,0
+69,63476.0,4.4,67.76,Month-to-month,Bank transfer,0
+74,101244.0,0.0,52.04,Month-to-month,Bank transfer,0
+26,,3.0,72.3,Month-to-month,Electronic check,1
+41,72128.0,6.5,53.97,Month-to-month,Credit card,0
+71,59520.0,0.9,83.79,Month-to-month,Mailed check,0
+35,35164.0,6.7,51.89,One year,,0
+18,50019.0,4.8,69.04,One year,Bank transfer,0
+50,50807.0,1.4,94.47,One year,Mailed check,0
+60,42567.0,2.7,134.29,Month-to-month,Bank transfer,1
+60,89751.0,2.9,44.81,Month-to-month,Bank transfer,0
+64,20690.0,3.9,58.39,Two year,Mailed check,0
+54,61859.0,2.7,49.0,Month-to-month,Electronic check,0
+25,60967.0,1.9,89.61,Month-to-month,Electronic check,0
+66,44567.0,3.2,41.3,Month-to-month,Credit card,0
+41,57691.0,1.4,57.89,Two year,Credit card,0
+66,70797.0,,69.26,Month-to-month,,0
+64,57749.0,3.9,45.53,Month-to-month,Mailed check,0
+73,62512.0,6.2,46.07,Month-to-month,Electronic check,1
+18,67472.0,0.2,58.11,One year,Bank transfer,0
+67,18423.0,4.0,20.0,Two year,Bank transfer,0
+53,81611.0,2.4,33.86,One year,Bank transfer,0
+45,96009.0,1.6,59.67,Month-to-month,Mailed check,0
+63,72654.0,6.1,73.71,Month-to-month,Electronic check,0
+72,73246.0,2.7,65.36,One year,Credit card,0
+47,29652.0,7.7,25.65,Two year,Electronic check,0
+22,52868.0,2.1,58.41,Month-to-month,Bank transfer,0
+59,40383.0,5.0,89.96,One year,Electronic check,0
+31,44431.0,3.4,83.9,Month-to-month,Bank transfer,0
+30,72407.0,2.1,68.03,Month-to-month,Electronic check,0
+28,,5.5,47.82,Month-to-month,Bank transfer,1
+29,52658.0,3.6,85.78,One year,Electronic check,0
+69,20646.0,5.5,55.53,Two year,Mailed check,0
+38,52148.0,3.9,40.77,One year,Mailed check,0
+24,56620.0,1.3,49.95,Month-to-month,Bank transfer,1
+28,42314.0,3.7,106.21,One year,Mailed check,0
+40,42042.0,4.1,75.5,Month-to-month,Mailed check,0
+37,88956.0,6.4,98.98,Month-to-month,Mailed check,1
+35,33225.0,1.7,58.02,Month-to-month,Bank transfer,1
+72,36089.0,3.9,93.45,Month-to-month,Credit card,1
+67,40438.0,0.0,54.96,Month-to-month,Mailed check,1
+50,76579.0,5.6,66.06,Month-to-month,Electronic check,1
+74,92828.0,1.3,132.16,Month-to-month,Electronic check,1
+37,60979.0,0.0,89.18,Month-to-month,Electronic check,1
+25,42088.0,3.9,57.47,Month-to-month,Bank transfer,0
+33,47301.0,6.8,67.88,Two year,Credit card,0
+23,74167.0,0.2,78.16,Two year,Electronic check,0
+72,38601.0,1.3,100.26,Month-to-month,Bank transfer,1
+30,81153.0,2.1,57.77,One year,Mailed check,0
+43,80498.0,1.2,26.47,Two year,Mailed check,0
+29,56264.0,4.9,63.01,Month-to-month,Credit card,0
+73,66630.0,,70.38,One year,Mailed check,0
+27,68495.0,2.2,72.74,Month-to-month,Bank transfer,1
+47,82976.0,5.5,102.92,One year,Bank transfer,0
+72,36074.0,2.1,77.92,Two year,Credit card,0
+47,76262.0,5.1,90.32,Month-to-month,Electronic check,1
+69,,1.6,42.47,Two year,Credit card,0
+69,41180.0,1.0,91.7,One year,Credit card,0
+61,56848.0,0.0,122.41,One year,Mailed check,1
+60,51142.0,8.7,89.32,One year,Credit card,0
+50,37225.0,3.2,76.34,Two year,Bank transfer,0
+51,26248.0,4.6,73.85,Month-to-month,Mailed check,1
+65,38042.0,3.9,114.68,One year,Credit card,0
+42,81142.0,4.4,46.82,Month-to-month,Electronic check,0
+71,90326.0,4.1,67.22,Month-to-month,Electronic check,0
+68,66702.0,8.8,81.51,One year,Credit card,0
+39,76347.0,1.4,88.6,Month-to-month,Credit card,1
+41,45697.0,0.1,59.07,Month-to-month,Mailed check,0
+58,53611.0,1.5,77.68,One year,Credit card,0
+70,60090.0,0.7,63.05,Two year,Bank transfer,0
+23,35537.0,5.9,73.01,One year,Electronic check,0
+21,37181.0,6.1,66.7,Month-to-month,Credit card,0
+32,56749.0,1.6,41.46,One year,Credit card,0
+42,49235.0,0.5,69.47,Month-to-month,Credit card,0
+27,35856.0,3.1,91.93,One year,Bank transfer,0
+47,61958.0,7.5,45.82,One year,Credit card,0
+48,50261.0,0.0,63.97,One year,Credit card,0
+72,73384.0,5.3,86.62,Month-to-month,Mailed check,0
+60,54907.0,1.3,43.25,Month-to-month,Credit card,0
+32,49594.0,6.6,74.57,One year,Credit card,0
+62,,1.3,43.5,Month-to-month,Electronic check,0
+63,51904.0,3.3,98.37,One year,,0
+56,42975.0,0.2,127.82,Month-to-month,Credit card,1
+56,47765.0,1.6,120.56,Month-to-month,Mailed check,1
+35,68490.0,7.5,64.52,Month-to-month,Bank transfer,0
+58,66637.0,6.1,88.5,One year,Mailed check,0
+25,78152.0,3.0,73.02,Two year,Bank transfer,0
+53,24526.0,1.8,72.55,Two year,Mailed check,0
+70,47924.0,0.0,108.69,Month-to-month,Bank transfer,1
+73,47538.0,3.0,37.02,One year,Credit card,0
+34,58092.0,3.9,96.38,Month-to-month,Bank transfer,1
+36,46861.0,,68.78,One year,Credit card,0
+53,45763.0,3.8,105.21,Month-to-month,Mailed check,1
+40,69094.0,1.2,74.68,Month-to-month,Electronic check,1
+59,58206.0,3.8,53.18,Month-to-month,,0
+29,34005.0,3.9,76.93,Month-to-month,Electronic check,0
+27,79021.0,,88.4,One year,Bank transfer,0
+20,72942.0,8.7,70.89,One year,Mailed check,0
+44,44669.0,3.7,82.2,One year,Bank transfer,0
+30,69963.0,2.1,56.96,Month-to-month,Mailed check,0
+35,41767.0,3.8,20.0,One year,Bank transfer,0
+70,75263.0,2.5,92.5,Month-to-month,Credit card,1
+64,51079.0,2.1,87.48,One year,Bank transfer,0
+65,40549.0,3.9,73.7,Month-to-month,Credit card,0
+51,48284.0,1.4,71.71,One year,Electronic check,0
+24,41215.0,5.5,95.91,Month-to-month,Credit card,0
+60,58459.0,3.7,58.57,Month-to-month,Electronic check,1
+52,58152.0,4.6,52.34,Month-to-month,Bank transfer,1
+69,55644.0,3.5,65.29,Month-to-month,Electronic check,0
+45,44981.0,2.2,99.73,Month-to-month,Bank transfer,1
+27,18000.0,,35.32,One year,Credit card,0
+51,,3.4,99.8,Two year,Mailed check,0
+43,20868.0,2.6,54.02,Month-to-month,Electronic check,1
+55,59395.0,4.6,42.48,Month-to-month,Mailed check,0
+39,75354.0,4.0,101.5,One year,Electronic check,0
+35,59930.0,0.6,67.58,Month-to-month,Electronic check,1
+25,47990.0,4.2,37.49,Two year,Mailed check,0
+72,51762.0,0.6,61.03,Month-to-month,Credit card,0
+61,52605.0,2.5,93.28,Month-to-month,Mailed check,0
+44,45114.0,3.3,99.8,Month-to-month,Mailed check,0
+31,44492.0,0.0,59.32,Month-to-month,Electronic check,0
+53,38370.0,4.2,80.16,Month-to-month,Electronic check,1
+41,76387.0,4.4,87.85,Month-to-month,Mailed check,1
+54,54720.0,3.6,53.88,One year,Mailed check,0
+23,72213.0,2.9,78.88,Two year,Mailed check,0
+28,50499.0,3.1,69.2,Month-to-month,Mailed check,1
+59,56299.0,1.6,56.6,One year,Bank transfer,0
+21,51933.0,3.3,57.7,Month-to-month,Bank transfer,0
+56,63331.0,2.6,71.68,One year,,1
+41,69879.0,4.2,70.75,Month-to-month,Electronic check,0
+18,59315.0,1.0,55.86,Month-to-month,Mailed check,0
+61,42871.0,4.6,59.35,Two year,Electronic check,0
+57,40961.0,4.4,97.83,One year,Electronic check,0
+64,84865.0,3.6,75.35,Month-to-month,Credit card,0
+69,49959.0,2.9,92.13,Month-to-month,Electronic check,0
+59,49760.0,5.4,100.05,Two year,Credit card,0
+65,81370.0,0.0,84.72,Two year,Electronic check,0
+24,74582.0,5.2,126.77,One year,Bank transfer,0
+70,64609.0,4.6,49.37,Two year,Mailed check,0
+70,47811.0,4.7,90.21,Two year,Bank transfer,0
+57,97358.0,5.0,62.05,One year,Bank transfer,0
+63,62074.0,2.4,116.39,One year,Electronic check,0
+60,64846.0,,112.51,Month-to-month,Electronic check,1
+68,51920.0,5.6,21.14,Month-to-month,Credit card,0
+68,29542.0,5.1,45.78,One year,Bank transfer,0
+47,30974.0,4.5,86.61,Two year,Credit card,0
+64,62326.0,0.2,89.75,Month-to-month,Bank transfer,1
+70,62053.0,5.3,88.41,Month-to-month,Bank transfer,1
+34,50680.0,6.9,68.23,Month-to-month,Credit card,1
+20,33910.0,6.5,81.38,One year,Electronic check,0
+27,29050.0,4.6,86.33,Month-to-month,Bank transfer,0
+19,49099.0,0.1,68.05,One year,Electronic check,1
+42,28790.0,6.4,95.68,Month-to-month,Bank transfer,1
+19,71180.0,3.6,20.0,One year,Mailed check,0
+32,75748.0,0.0,85.84,One year,Mailed check,0
+32,105923.0,4.9,44.15,Month-to-month,Mailed check,0
+58,70810.0,0.3,93.97,Month-to-month,Bank transfer,1
+32,44329.0,0.8,64.28,Month-to-month,Electronic check,1
+72,39310.0,2.4,47.78,One year,Credit card,0
+28,18000.0,7.2,79.35,Month-to-month,Mailed check,1
+73,44292.0,3.1,47.22,Month-to-month,Credit card,1
+50,51814.0,4.7,47.18,Month-to-month,Mailed check,1
+31,72421.0,8.4,30.82,Month-to-month,Electronic check,0
+20,66009.0,8.0,69.33,Two year,Mailed check,0
+35,65590.0,3.7,82.42,Two year,Mailed check,0
+51,58845.0,3.4,95.58,Two year,Mailed check,0
+24,66896.0,0.8,66.46,Two year,Mailed check,0
+27,81057.0,2.3,96.2,One year,Mailed check,0
+24,35832.0,5.1,70.45,Month-to-month,Bank transfer,0
+56,,5.0,67.67,Two year,Mailed check,0
+23,30006.0,4.3,84.34,One year,Electronic check,1
+19,84136.0,6.5,96.46,One year,Bank transfer,0
+43,78344.0,2.1,61.46,One year,Bank transfer,0
+35,68541.0,3.9,63.91,Two year,Mailed check,0
+50,33426.0,5.8,65.98,Month-to-month,Bank transfer,0
+71,58113.0,5.5,72.07,One year,Electronic check,0
+66,50776.0,6.7,47.49,Month-to-month,Electronic check,0
+48,56455.0,5.0,95.7,Month-to-month,Credit card,1
