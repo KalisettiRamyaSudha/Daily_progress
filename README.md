@@ -1,68 +1,33 @@
 # Daily Progress — Python, Data Analysis & Machine Learning
 
-A day-by-day log from Python fundamentals through a first machine
-learning project, spanning four weeks.
+A concise five-week log: Python fundamentals through classification, ensembles, and model tuning.
 
 ## Week 1 — Python Fundamentals
-- **Day 1**: Conditionals & control flow — number classification, even/odd checker, menu-driven calculator
-- **Day 2**: Lists — append/insert/remove/sort/reverse, manual max/min, sum & average, multiplication tables
-- **Day 3**: Strings — length/case/reverse/vowel count, palindrome checker, word counter, character frequency
-- **Day 4**: Functions & loops — square/cube/factorial/simple interest, prime checker, Fibonacci series, star patterns
-- **Day 5**: File handling & review — safe file read/write/append, student marks & grading, a combined practice set, Git organization
+Conditionals, loops, functions, string manipulation, and file I/O — building up to a combined practice set and basic Git organization.
 
 ## Week 2 — NumPy & pandas
-- **Day 1**: NumPy basics — array creation, shape/size/ndim, indexing & slicing, element-wise math
-- **Day 2**: Reshape/flatten, random number arrays, mean/median/std dev, matrix operations
-- **Day 3**: pandas Series, DataFrame creation, CSV inspection, column selection & row filtering
-- **Day 4**: Missing values, renaming & sorting, calculated columns, `groupby` aggregation
-- **Day 5**: Mini dataset project (build → clean → analyze → summarize) and a summary notebook
+Array creation and math with NumPy (indexing, reshaping, random data, stats); DataFrame creation, cleaning, and `groupby` aggregation with pandas — capped with a mini dataset project.
 
 ## Week 3 — Data Visualization & EDA
-- **Day 1**: Matplotlib basics — line charts, bar charts, histograms
-- **Day 2**: Scatter plots, multiple chart types for different purposes, legends/gridlines/markers, saving charts to file
-- **Day 3**: Seaborn — count plots, box plots, pair plots, distribution analysis, correlation heatmaps, categorical analysis
-- **Day 4**: Data cleaning (duplicates, text standardization), outlier detection (IQR), data type conversion, a 5-observation EDA summary
-- **Day 5**: Mini EDA project — messy CSV dataset, full cleaning + analysis notebook, 6 charts, README documenting objective/steps/findings
+Matplotlib and Seaborn chart types (line, bar, histogram, scatter, boxplot, heatmap); data cleaning, outlier detection (IQR), and dtype conversion — capped with a mini EDA project on a messy employee dataset (6 charts, 5 documented findings).
 
 ## Week 4 — Machine Learning Basics
-- **Day 1**: Feature/target identification, train-test split, a minimal fit → predict → evaluate sklearn workflow (Iris dataset)
-- **Day 2**: Linear regression — training, actual-vs-predicted visualization, MAE/MSE/RMSE/R², coefficient interpretation (diabetes dataset)
-- **Day 3**: Logistic regression — accuracy, confusion matrix (TP/TN/FP/FN), precision/recall/F1 classification report (breast cancer dataset)
-- **Day 4**: KNN classifier with K experimentation, StandardScaler vs. MinMaxScaler comparison, logistic regression vs. KNN model comparison, a full practice rep on Iris
-- **Day 5**: Mini ML project — full classification workflow on the wine dataset (load → explore → preprocess → split → train two models → evaluate → compare → conclude), documented end to end in one notebook
+The core `fit → predict → evaluate` workflow: train/test splitting, Linear & Logistic Regression, KNN, feature scaling, and evaluation metrics (MAE/RMSE/R², accuracy/precision/recall/F1, confusion matrix) — capped with a mini ML project classifying wine cultivars (97.2% accuracy, two models compared).
 
-## Key Takeaways by Theme
-- **Python fundamentals**: control flow, reusable functions, loop-based algorithms, string manipulation, safe file I/O.
-- **NumPy/pandas**: vectorized array math, DataFrame construction and inspection, missing-value handling, `groupby` aggregation.
-- **Visualization/EDA**: matching chart type to the question being asked, reading distributions and outliers, correlation vs. causation caution, documenting findings alongside charts.
-- **Machine learning**: the universal `fit → predict → evaluate` pattern; splitting before scaling (to avoid data leakage); accuracy alone can mislead — precision/recall/F1 and the confusion matrix tell a fuller story; comparing multiple models on the same data rather than assuming one algorithm wins by default.
+## Week 5 — Trees, Ensembles & Model Tuning
+Decision trees and overfitting via `max_depth`; Random Forests and why ensembling reduces variance; cross-validation (`cross_val_score`) and hyperparameter tuning (`GridSearchCV`); full preprocessing pipelines (imputing, encoding, scaling via `ColumnTransformer`) — capped with a mini project predicting student pass/fail outcomes (Logistic Regression edged out Random Forest, F1 0.769 vs. 0.750).
 
-## Week 4, Day 5 — This Project
-- `data/wine_dataset_W4D5.csv` — 178 samples, 13 chemical-measurement features, 3 wine-cultivar classes
-- `notebooks/mini_ml_project_W4D5.ipynb` — the full workflow, with a markdown explanation before every code section (data loading, exploration, preprocessing, splitting, training, prediction, evaluation, model comparison, conclusion)
-- `plots/feature_scatter_W4D5.png`, `plots/confusion_matrices_W4D5.png` — supporting charts
-- Result: Logistic Regression and KNN (K=5) both reached 97.2% test accuracy, with macro F1-scores within 0.001 of each other (0.9710 vs. 0.9718) — a genuine near-tie on this clean, well-separated dataset.
-
-## Project Structure
-```
-Week4_Day5_MiniMLProject/
-├── README.md
-├── data/
-│   └── wine_dataset_W4D5.csv
-├── notebooks/
-│   └── mini_ml_project_W4D5.ipynb
-└── plots/
-    ├── feature_scatter_W4D5.png
-    └── confusion_matrices_W4D5.png
-```
+## Key Takeaways
+- **Fundamentals → data handling:** control flow and functions gave way to vectorized NumPy/pandas operations as the default way to work with data.
+- **EDA discipline:** always inspect, clean, and visualize before modeling — and back every finding with an actual number.
+- **The ML workflow is universal:** split → preprocess (fit on train only) → train → predict → evaluate with more than one metric, whether the model is linear, KNN, a tree, or a forest.
+- **Model selection needs evidence:** cross-validation and multi-metric comparison (not one accuracy number from one split) are what justify picking one model over another.
 
 ## Pushing to Git
 ```bash
 cd Daily_progress
-mkdir -p Week4/Day5_MiniMLProject
-cp -r Week4_Day5_MiniMLProject/* Week4/Day5_MiniMLProject/
-cp README.md .   # optional: replace/update the repo's root README with this one
-git add Week4/Day5_MiniMLProject README.md
-git commit -m "Add Week4 Day5: mini ML project (wine classification) + full 4-week summary README"
+cp README.md .   # replaces the repo's root README with this summary
+git add README.md
+git commit -m "Update summary README through Week 5"
 git push origin main
 ```
